@@ -1,3 +1,7 @@
+https://youtu.be/AC0jUG627Zs
+
+---
+
 # Assignment 8: Logistic Regression
 
 ---
